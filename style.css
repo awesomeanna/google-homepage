@@ -133,6 +133,7 @@ footer {
     width: 100%;
     vertical-align: top;
     margin-left: 40%;
+    min-width: 30%;
 }
 
 #right-footer {
@@ -142,4 +143,14 @@ footer {
     flex-wrap: wrap; */
     /* padding: 0 20px; */
     float: right;
+}
+
+.material-icons-outlined {
+    display: flex;
+    padding-right: 13px;
+    margin-top: 8px;
+}
+
+.search-icon {
+    color: #9aa0a6;
 }
